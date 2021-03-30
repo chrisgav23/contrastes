@@ -6,14 +6,20 @@
 .cabecera{
 color: #fff;
 width:100%;
-height:900px;
+height:100%;
 text-align:center;
 vertical-align:middle;
 display: flex;
 justify-content: center;
 
 }
-
+.frase{
+	color: white;
+	font-size:20pt;
+	font-style:italic;
+	text-shadow: 2px 2px 2px black;
+	
+}
 a{
 	color:white;
 font-size:20pt;
@@ -29,3 +35,10 @@ a:hover{
 h1{color:red;}
 h2{color:red;}
 h3{color:red;}
+
+footer{
+text-align:center;
+vertical-align:middle;
+display: flex;
+justify-content: center;
+}
