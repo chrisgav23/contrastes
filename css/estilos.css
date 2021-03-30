@@ -44,7 +44,10 @@ justify-content: center;
 }
 nav li{
 	display:inline-block;
-	width:250px;height:50px;
+	width:280px;height:60px;
+	vertical-align:top;
+	margin-top:10px;
+	margin-bottom:10px;
 	
 
 }
@@ -53,5 +56,5 @@ nav{
 background-color:red;
 margin-left:10%;
 margin-right:10%;
-height:70px;
+height:auto;
 }
