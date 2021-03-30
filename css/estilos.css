@@ -13,24 +13,19 @@ display: flex;
 justify-content: center;
 
 }
-.imagen-contenido{
-	background-color:white;
-	width:60%;
-	height:50%
 
-
-
-}
 a{
-	color:red;
+	color:white;
 font-size:20pt;
 text-decoration:none;
-
+background-color:red;
 }
 a:hover{
 	font-size:25pt;
 	color:black;
 }
+.sombra{text-shadow: 2px 2px 2px black;}
+
 h1{color:red;}
 h2{color:red;}
 h3{color:red;}
