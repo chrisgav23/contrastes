@@ -58,3 +58,6 @@ margin-left:10%;
 margin-right:10%;
 height:auto;
 }
+.circular--square{
+	border-radius:50% 50%;
+}
